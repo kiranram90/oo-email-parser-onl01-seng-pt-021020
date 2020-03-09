@@ -3,7 +3,7 @@
 # unique email addresses. The delimiters to support are commas (',')
 # or whitespace (' ').
 
-attr_accessor 
+attr_accessor :
 
 class EmailParser(email) 
   
